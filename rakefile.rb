@@ -1,4 +1,5 @@
 require 'fileutils'
+require 'rake'
 @standard_classpaths = [#"%CLASSPATH%",
 	"./lib/antlr-4.0b2-complete.jar",
 	"./lib/junit-4.11.jar"]
